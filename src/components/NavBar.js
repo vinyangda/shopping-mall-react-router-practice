@@ -64,7 +64,7 @@ const NavBox = styled.div`
 
   > .nav-search {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
   }
 `;
 
